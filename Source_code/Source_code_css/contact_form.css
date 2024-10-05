@@ -1,0 +1,86 @@
+.footer .ContactForm {
+    display: none;
+}
+#mbl-contact {
+    z-index: 1000;
+    position: relative;
+}
+#mbl-contact .ContactForm {
+    margin: 0px!important;
+}
+#mbl-contact .contact-form-button-submit {
+    max-width: none;
+    width: 100%;
+    height: 35px;
+    border: 0;
+    background-image: none;
+    background-color: #df1f26;
+    cursor: pointer;
+    font: normal normal 13px Open Sans;
+    font-style: normal;
+    font-weight: 400;
+}
+.#mbl-contact .contact-form-button-submit:hover {
+    background-color: #222;
+    background-image: none;
+    border: 0;
+}
+#mbl-contact #contact {
+    position: fixed;
+    bottom: 0;
+    right: 1%;
+    background-color: #EEE;
+    color: #555;
+    width: 300px;
+    z-index: 1.0E+15;
+}
+#mbl-contact #contact .contact-form-widget {
+    padding: 30px;
+    display: none;
+}
+
+
+
+#mbl-contact #contact h2.title {
+    margin: 0px;
+    font-weight: 400;
+    background-color: #df1f26;
+    color: #FFF;
+    padding: 8px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    letter-spacing: 3px;
+    text-align: center;
+}
+#mbl-contact #contact h2.title .fa {
+    position: absolute;
+    left: 10px;
+    top: 12px;
+}
+#mbl-contact #contact .contact-form-widget {
+    width: 240px;
+    padding: 30px;
+    display: none;
+}
+#mbl-contact #contact * {
+    transition: all 0 ease;
+    -webkit-transition: all 0 ease;
+    -moz-transition: all 0 ease;
+    -o-transition: all 0 ease;
+}
+#mbl-contact #contact .contact-form-name,
+#contact .contact-form-email,
+#contact .contact-form-email-message {
+    background-color: #DDD;
+    color: #111;
+    border: 0;
+    padding: 10px 5px;
+    font: normal normal 13px Open Sans;
+}
+#mbl-contact .contact-form-name,
+.contact-form-email,
+.contact-form-email-message,
+.contact-form-widget {
+    max-width: none;
+    margin-bottom: 15px;
+}

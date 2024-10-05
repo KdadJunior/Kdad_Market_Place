@@ -1,0 +1,38 @@
+#related-posts img {
+    border: 1px solid #E6E6E6;
+    padding: 20px;
+    background: #EBEAE8;
+    width: 170px!important;
+    height: auto!important;
+}
+#related-posts a {
+    height: 240px;
+    overflow: hidden;
+    background: #EBEAE8;
+    padding: 0!important;
+    margin-right: 13px!important;
+    border: 1px solid #eee;
+}
+#related-posts a div {
+    position: absolute;
+    width: 100%!important;
+    bottom: 0;
+    height: 28px!important;
+    background: #fff;
+    color: #444;
+    padding: 8px 0px!important;
+    overflow: hidden;
+    border: 1px solid #eee!important;
+}
+#related-posts a {
+    position: relative;
+}
+#related-posts h2 {
+    margin: 20px 0px 20px 0px;
+    text-transform: uppercase;
+    padding: 8px 10px 8px 10px;
+    font-weight: 600;
+    color: #555;
+    background-color: #eee;
+    font-size: 17px;
+}

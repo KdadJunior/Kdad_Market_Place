@@ -1,0 +1,46 @@
+.archive .post-body {
+    text-align: center;
+}
+.archive #main-wrapper {
+    margin-top: 40px;
+}
+.none {
+    display: none;
+}
+.feed-links {
+    display: none;
+}
+h2.date-header {
+    margin: 1.5em 0 .5em;
+    display: none;
+}
+.main .widget {
+    margin: 0 0 5px;
+    padding: 0 0 2px
+}
+.main .Blog {
+    border-bottom-width: 0
+}
+#blog-pager-newer-link {
+    float: $startSide
+}
+#blog-pager-older-link {
+    float: $endSide
+}
+#blog-pager {
+    text-align: center
+}
+.feed-links {
+    clear: both;
+    line-height: 2.5em
+}
+#navbar-iframe {
+    display: none;
+}
+.Phead-right {
+    float: left;
+    width: 100%;
+}
+.widget {
+    margin: 0;
+}

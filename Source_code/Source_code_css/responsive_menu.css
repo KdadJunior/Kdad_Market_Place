@@ -1,0 +1,47 @@
+nav#nav-mobile {
+    position: relatitve;
+    display: none;
+}
+#nav-trigger {
+    float: left;
+    margin: 0;
+}
+#nav-trigger span {
+    color: #EEE;
+    line-height: 57px;
+}
+nav#nav-mobile {
+    margin: 0px;
+}
+nav#nav-mobile {
+    display: none;
+}
+#nav-trigger span .fa {
+    font-size: 18px;
+    color: #555555;
+}
+nav#nav-mobile {
+    float: left;
+    width: 220px;
+    margin-top: 53px;
+    z-index: 300;
+    position: relative;
+    margin-left: -18px;
+}
+#nav-mobile li {
+    width: 100%;
+    float: left;
+}
+#nav-mobile li a {
+    background-color: #3F3E3E;
+    padding: 13px 20px 13px 20px;
+    width: 100%;
+    float: left;
+    color: #fff;
+}
+#nav-mobile li li a {
+    background: #515151;
+}
+#nav-trigger {
+    display: none;
+}

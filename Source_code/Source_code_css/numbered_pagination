@@ -1,0 +1,30 @@
+.showpageOf {
+    display: none;
+}
+.showpagePoint {
+    padding: 10px 15px 10px 15px;
+    background: #222;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+.showpageNum a {
+    padding: 10px 15px 10px 15px;
+    background: #df1f26;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+.showpage a {
+    padding: 10px 15px 10px 15px;
+    background: #df1f26;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+.showpage a:hover {
+    background: #222;
+}
+.showpageNum a:hover {
+    background: #222;
+}
