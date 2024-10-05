@@ -1,0 +1,119 @@
+.footer {
+    background-color: #32302f;
+    color: #CCC;
+    border-top-color: rgba(0, 0, 0, .2);
+    width: 100%;
+    float: left;
+    padding: 60px 0px 0px 0px;
+    margin: 80px 0px 0px 0px;
+}
+.footer-widget h2 {
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 18px;
+    color: #fff;
+}
+.footer-widget {
+    float: left;
+    width: 250px;
+    margin-left: 30px;
+    color: #CCC;
+}
+.footer-widget:first-child {
+    margin: 0px;
+}
+.footer-widget p {
+    line-height: 22px;
+}
+.footer-widget a:hover {
+    text-decoration: underline;
+}
+.footer-widget a {
+    color: #df1f26;
+    text-decoration: none;
+}
+.footer-widget li {
+    display: block;
+    margin-bottom: 10px;
+}
+.footer-widget.last {
+    width: 358px;
+}
+.copyrights {
+    background-color: #2a2928;
+    color: rgba(255, 255, 255, .25);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .1);
+    float: left;
+    width: 100%;
+    padding: 25px 0px;
+    margin-top: 60px;
+}
+.copyrights p {
+    margin: 20px 0px;
+}
+.copyrights a {
+    color: rgba(255, 255, 255, .25);
+}
+.copyrights ul {
+    margin: 20px 0px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.right li {
+    float: left;
+    display: block;
+    margin-right: 15px;
+}
+.footer-widget.last p {
+    font-size: 16px;
+}
+.footer .social-links {
+    float: left;
+    width: 100%;
+    margin-top: 28px;
+}
+.footer .social-links li {
+    float: left;
+    margin-left: 22px;
+    color: #fff;
+}
+.footer .social-links li a {
+    color: #fff;
+    font-size: 20px;
+    padding: 12px 17px;
+    border: 1px solid #fff;
+}
+.footer .social-links li:first-child {
+    margin: 0px;
+}
+.email-form {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+.emailtext {
+    background-color: rgba(0, 0, 0, .2)!important;
+    color: rgba(255, 255, 255, .25)!important;
+    padding: 15px 20px!important;
+    width: 200px!important;
+    float: left;
+    border-radius: 0!important;
+    border: 0px;
+}
+.sub-button {
+    background: #df1f26;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: 112px;
+    border: 0px;
+    padding: 15px 20px!important;
+}
+.popular-posts ul {
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,36 @@
+#feature-category img {
+    transition: all .3s ease-out;
+    width: 100%;
+}
+#feature-category img:hover {
+    transform: scale(1.2);
+}
+#feature-category li {
+    float: left;
+    height: 239px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    width: 400px;
+}
+#feature-category {
+    float: left;
+    width: 100%;
+    margin-top: -35px;
+    z-index: 100;
+    position: relative;
+}
+#feature-category li span {
+    position: absolute;
+    bottom: 0;
+    z-index: 100;
+    margin: 0px 0 41px 29px;
+    font-size: 27px;
+    text-transform: uppercase;
+    color: #fff;
+    left: 0;
+    letter-spacing: 4px;
+    background-color: #111;
+    padding: 5px 18px 5px 18px;
+    font-weight: 300;
+}

@@ -1,0 +1,150 @@
+#main-wrapper .contact_billing_templateism p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+#main-wrapper .contact_billing_templateism {
+    display: block!important;
+    position: static;
+    z-index: 0;
+    margin: 34px 0px 0px 0px;
+    padding: 27px 23px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    border: 1px solid #eee;
+}
+#main-wrapper .contact_billing_templateism {
+    color: #111;
+}
+.contact_billing_templateism .simpleCart_checkout {
+    float: right;
+    padding: 0px!important;
+    margin: 0px!important;
+}
+.contact_billing_templateism {
+    padding: 40px;
+    width: 100%;
+    float: left;
+    background: #fff;
+    margin-bottom: 40px;
+}
+.submit_billing_templateism {
+    float: right;
+    border: 0px;
+    background: #df1f26;
+    padding: 10px;
+    color: #fff;
+    font-size: 18px;
+    font-family: open sans;
+}
+.submit_billing_templateism:hover {
+    background: #111;
+}
+p.paypallogo {
+    width: 100%;
+    margin-bottom: 30px;
+}
+p.infos {} .contact_billing_templateism h2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+.contact_billing_templateism .form {
+    color: #df1f26;
+    font-size: 20px;
+}
+.contact_billing_templateism .form br {
+    margin-bottom: 10px;
+    float: left;
+    width: 100%;
+    content: &#39;
+    &#39;
+    ;
+}
+.name_billing_templateism,
+.email_billing_templateism,
+.details_billing_templateism {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-family: open sans;
+    border: 1px solid #ddd;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.details_billing_templateism {
+    height: 350px;
+}
+.contact_billing_templateism .item-decrement,
+.contact_billing_templateism .item-increment {
+    display: none!important;
+}
+.contact_billing_templateism .item-thumb {
+    display: none;
+}
+.contact_billing_templateism .item-quantity:before {
+    content: &#39;
+    x &#39;
+    ;
+}
+.contact_billing_templateism .item-price {
+    float: left;
+    border-right: 1px solid #ddd;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-left: 1px solid #d2d2d2;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    width: 15%;
+}
+.contact_billing_templateism .item-name {
+    float: left;
+    margin: 0px;
+    width: 35%;
+}
+.contact_billing_templateism .item-quantity {
+    font-size: 20px;
+    float: left;
+    padding-right: 20px;
+    border-right: 1px solid #d2d2d2;
+    margin-right: 20px;
+    width: 15%;
+}
+.contact_billing_templateism .item-total {
+    font-size: 20px;
+    float: left;
+    margin: 0px;
+    width: 15%;
+}
+.contact_billing_templateism .simpleCart_items {
+    width: 100%;
+    margin-bottom: 40px;
+}
+.contact_billing_templateism .headerRow {
+    display: none;
+}
+.contact_billing_templateism .itemRow {
+    margin: 0px;
+    background: #FBFBFB;
+    width: 100%;
+}
+.contact_billing_templateism .simpleCart_total {
+    text-align: right;
+    float: right;
+    width: 100%;
+    font-size: 25px;
+    color: #111;
+}
+.contact_billing_templateism .form p {
+    margin: 0px!important;
+    padding: 0px!important;
+}
+.contact_billing_templateism .form p.paypallogo {
+    margin-bottom: 30px!important;
+    font-weight: 400!important;
+}
